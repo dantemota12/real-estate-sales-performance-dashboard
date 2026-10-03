@@ -85,6 +85,7 @@ Tableau Public · Calculated Fields · LOD Expressions (`FIXED`) · Cohort Analy
 - `sprint 11 - cuaderno de jupyter - S11 Estudiante Proyecto InmobiliarioGrupoAndes.ipynb`: project notebook with the data cleaning, modeling and measure requirements, and the executive summary.
 - `images/`: screenshots of the dashboard pages.
 - [Live dashboard on Tableau Public](https://public.tableau.com/app/profile/dante.alvarado/viz/Tablero_Inmobiliario_Andes_Capital/TendenciadeVentas)
+- [Download the Tableau workbook (.twbx) from Google Drive](https://drive.google.com/file/d/1_GFJZyn0b7IzJj3Wll6hvL3sgqLc3sQz/view?usp=sharing)
 - [Download the notebook from Google Drive](https://drive.google.com/file/d/1_spCxtGTNRXRXlWaUQjdJup6nPjWNeYJ/view?usp=sharing)
 ## Author
 
